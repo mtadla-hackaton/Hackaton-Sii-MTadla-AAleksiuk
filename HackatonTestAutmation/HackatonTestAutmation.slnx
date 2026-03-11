@@ -1,0 +1,11 @@
+<Solution>
+  <Folder Name="/Solution Items/">
+    <File Path=".editorconfig" />
+  </Folder>
+  <Project Path="Prestashop.Automation.Api/Prestashop.Automation.Api.csproj" />
+  <Project Path="Prestashop.Automation.Core/Prestashop.Automation.Core.csproj" />
+  <Project Path="Prestashop.Automation.TestSupport/Prestashop.Automation.TestSupport.csproj" />
+  <Project Path="Prestashop.Automation.Ui/Prestashop.Automation.Ui.csproj" />
+  <Project Path="Prestashop.Tests.Api/Prestashop.Tests.Api.csproj" />
+  <Project Path="Prestashop.Tests.Ui/Prestashop.Tests.Ui.csproj" />
+</Solution>
